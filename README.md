@@ -13,7 +13,11 @@ I was motivated to create this game about a year ago because I wanted to come up
 * Tiled
 
 ### Design
+* Map 1
+![image](https://user-images.githubusercontent.com/58013489/117327746-f1196980-ae60-11eb-96aa-98ec875cb315.png)
 
+* Map 2
+![image](https://user-images.githubusercontent.com/58013489/117327825-055d6680-ae61-11eb-8477-ed82ea1a3f18.png)
 
 
 ### License
